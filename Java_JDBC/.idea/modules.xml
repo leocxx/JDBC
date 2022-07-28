@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBCbasic/JDBCbasic.iml" filepath="$PROJECT_DIR$/JDBCbasic/JDBCbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCplus/JDBCplus.iml" filepath="$PROJECT_DIR$/JDBCplus/JDBCplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCsenior/JDBCsenior.iml" filepath="$PROJECT_DIR$/JDBCsenior/JDBCsenior.iml" />
+    </modules>
+  </component>
+</project>
